@@ -3,7 +3,7 @@
 ## Description
 
 PlanMyTrip app is an online agency for the hospitality industry which allows customers to plan their vacation and find hotels based on their preferrences.<br>
-After extracting current weather data from a JSON file, maps were created based on customer inputs.
+After extracting current weather data and Google maps using API keys, maps were created based on customer inputs.
 
 #### *Folder 1* - [Weather_Database](https://github.com/taranahassan/World_Weather_Analysis/tree/main/Weather_Database)
 
